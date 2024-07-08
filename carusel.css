@@ -1,0 +1,7 @@
+.bg-mavi {background-color: rgb(79, 221, 231)}
+#slide1 {background: url(img/slide1s.png) center/cover no-repeat; height: 25px}
+#slide2 {background: url(img/slide2s.png) center/cover no-repeat; height: 25px}
+#slide3 {background: url(img/slide3s.png) center/cover no-repeat; height: 25px}
+#slide4 {background: url(img/slide4s.png) center/cover no-repeat; height: 25px}
+#slide5 {background: url(img/slide5s.png) center/cover no-repeat; height: 25px}
+.dirnaq {font-size: 50px; font-family: Arial, Helvetica, sans-serif}

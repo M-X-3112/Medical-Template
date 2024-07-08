@@ -1,0 +1,17 @@
+:root { --mavi: #6bc2f1 }
+header { background: url('img/headerbg.jpg') 55% 50%/cover; }
+.text-mavi { color: var(--mavi) }
+.bg-mavi { background-color: var(--mavi) }
+.bg-lacivert { background-color: #072135 }
+.vh-50 { height: 50vh;}
+#f1 { background: url('img/f1.jpg') center/cover }
+#f2 { background: url('img/f2.jpg') center/cover }
+#f1:hover, #f2:hover { opacity: .6;}
+#f1:hover h4, #f2:hover h4 { display: initial!important;}
+.bg-mavi {background-color: rgb(79, 221, 231)}
+#slide1 {background: url(img/slide1s.png) center/cover no-repeat; height: 25px}
+#slide2 {background: url(img/slide2s.png) center/cover no-repeat; height: 25px}
+#slide3 {background: url(img/slide3s.png) center/cover no-repeat; height: 25px}
+#slide4 {background: url(img/slide4s.png) center/cover no-repeat; height: 25px}
+#slide5 {background: url(img/slide5s.png) center/cover no-repeat; height: 25px}
+.dirnaq {font-size: 50px; font-family: Arial, Helvetica, sans-serif}
